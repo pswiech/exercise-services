@@ -4,3 +4,6 @@ Define value for property 'groupId': : com.pswiech
 Define value for property 'artifactId': : exercise-services
 Define value for property 'version':  1.0-SNAPSHOT: :
 Define value for property 'package':  com.pswiech: :
+
+
+http://localhost:8080/exercise-services/webapi/myresource

@@ -1,0 +1,23 @@
+GitHub:
+ssh-keygen.exe
+cat ~/.ssh/id_rsa.pub
+> add GitHub -> Settings -> SSh and GPG keys -> New SSH key
+
+create repo in GitHub
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+
+git init
+vi .gitignore
+.classpath
+.gitignore
+.project
+.settings/
+git add .
+git commit -m "Initial commit"
+git remote add origin git@github.com:pswiech/exercise-services.git
+# git remote remove origin
+git remote -v
+git push origin master
+
+
+
